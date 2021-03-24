@@ -155,3 +155,20 @@ hr{
 a{
     color: white;
 }
+
+.contact-class{
+    background-color: white;
+    text-align: center;
+}
+
+.inpt{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    align-items: baseline;
+}
